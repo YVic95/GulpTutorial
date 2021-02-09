@@ -1,0 +1,13 @@
+@import 'base/variables';
+@import 'base/fonts';
+
+body {
+  background: $bg;
+  color: $red;
+}
+a {
+  transition: all 320ms ease;
+}
+p {
+  font-size: 18px;
+}
